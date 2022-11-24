@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: API Teste LUX
+  description: API para testes de praticas
+  version: 0.0.1
+  termsOfService: https:/google.com.br
+
